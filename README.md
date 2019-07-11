@@ -20,8 +20,8 @@ Responsive landing page with Sass.
 
 1. Desktop size:
 
-![Desktop size]()
+![Desktop size](https://github.com/Maceina/Landing-Page/blob/master/images/fullscreen.png?raw=true)
 
 2. Mobile size(Iphone X):
 
-![Iphone x]()
+![Iphone X](https://github.com/Maceina/Landing-Page/blob/master/images/phone%20size.png?raw=true)
