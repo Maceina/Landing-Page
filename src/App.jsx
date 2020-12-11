@@ -21,7 +21,7 @@ const App = () => {
   useEffect(() => {
     setLandingPageData(JsonData)
   }, [])
-// 6
+// 7
   return (
     <div>
       <Navigation />
