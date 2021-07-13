@@ -15,7 +15,7 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
   speedAsDuration: true,
 })
-
+// test commit
 const App = () => {
   const [landingPageData, setLandingPageData] = useState({})
   useEffect(() => {
